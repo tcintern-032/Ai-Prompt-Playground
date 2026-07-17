@@ -7,7 +7,7 @@ A JavaScript fundamentals project featuring a text area for prompts, submit vali
  - Display submitted prompt in a nice card
  - Keeps track of your last 10 prompts
  - Looks good on both mobile and desktop
-   ##Concept Practiced           
+   ## Concept Practiced           
 - Variables: `let` and `const`
 - Data types and operators
 - Functions 
