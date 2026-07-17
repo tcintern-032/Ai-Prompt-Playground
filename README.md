@@ -26,4 +26,5 @@ A JavaScript fundamentals project featuring a text area for prompts, submit vali
 - Save prompt history using LocalStorage
 ## **Author**
   Muhammad Zeeshan Haider, Fresh Graduate In Information Tecchnology From University Of Education Lahore
-         Connect with me : [LinkedIn | GitHub] 
+        
+ Connect with me : [LinkedIn | GitHub] 
