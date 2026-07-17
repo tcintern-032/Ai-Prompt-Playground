@@ -16,14 +16,14 @@ A JavaScript fundamentals project featuring a text area for prompts, submit vali
 - Arrays and array methods
 - Conditional statements: `if/else`
 - Fetch API — introductory stub (sendPromptToAI) for future AI integration
-  ## **Tech Stack**
+## **Tech Stack**
 - HTML5
 - CSS3
 - JavaScript (Vanilla JS)
-  ## **Next Steps**
+## **Next Steps**
 - Connect to an AI API to generate real responses
 - Add a "Clear History" button
 - Save prompt history using LocalStorage
-  ## **Author**
+## **Author**
   Muhammad Zeeshan Haider, Fesh Graduate In Information Tecchnology From University Of Education Lahore
   Connect with me : [LinkedIn | GitHub] 
