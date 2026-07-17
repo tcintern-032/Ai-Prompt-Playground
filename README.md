@@ -25,5 +25,5 @@ A JavaScript fundamentals project featuring a text area for prompts, submit vali
 - Add a "Clear History" button
 - Save prompt history using LocalStorage
 ## **Author**
-  Muhammad Zeeshan Haider, Fesh Graduate In Information Tecchnology From University Of Education Lahore
-  Connect with me : [LinkedIn | GitHub] 
+  Muhammad Zeeshan Haider, Fresh Graduate In Information Tecchnology From University Of Education Lahore
+         Connect with me : [LinkedIn | GitHub] 
